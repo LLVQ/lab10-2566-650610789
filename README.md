@@ -3,8 +3,8 @@
 หลังจากการ Fork และ Clone repository แล้ว, ให้เปิดโฟลเดอร์ด้วย VSCode และรันคำสั่งใน terminal:
 
 ```bash
-npm install
-npm run dev
+npm install (xD)
+npm run dev 
 ```
 
 ให้นักศึกษาสร้างหน้าเว็บ Users Generator โดยใช้ความรู้เรื่อง localStorage และ useEffect hook ของ React
